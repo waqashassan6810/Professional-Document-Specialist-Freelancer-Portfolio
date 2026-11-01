@@ -9,23 +9,22 @@ I am an experienced online freelancer specializing in professional document form
 ## 🛠️ Skills & Expertise
 
 * **Document Formatting & Conversion:** PDF to Word/Excel, layout cleanup, scanned document restoration, and precise line-break spacing.
+
 * **Typing & Linguistic Work:** Professional InPage Urdu typing, eBook formatting, and multi-language support (English, Urdu, Punjabi, Hindi).
-* **Digital Storefronts & Products:** Managing commercial assets and digital templates on **[Gumroad Storefront](https://waqash64.gumroad.com)**.
+
+* **Digital Storefronts & Products:** Managing commercial assets and digital templates on **[Fiverr Gig](https://www.fiverr.com/pe/Wee5ly5)**.
+
 * **Business Tools & Workflow:** Google Workspace, Microsoft Office suite, Canva for digital presentations, and automated productivity tracking.
 
 ---
 
-## 📂 Featured Services & Storefronts
+## 📊 GitHub Stats & Activity
 
-| Platform / Service | Description | Link |
-| :--- | :--- | :--- |
-| **Fiverr Professional Gig** | Expert document formatting, conversion, and typing services. | [View Fiverr Gig](https://www.fiverr.com/pe/Wee5ly5) |
-| **Gumroad Digital Store** | Downloadable professional templates, resumes, and digital assets. | [Visit Gumroad Store](https://waqash64.gumroad.com) |
+![Waqas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqashassan6810&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
 * **Fiverr Profile/Gig:** [Click here to order services](https://www.fiverr.com/pe/Wee5ly5)
-* **Gumroad Store:** [Explore digital products](https://waqash64.gumroad.com)
 * **Professional Profiles:** Available across freelance platforms and linguistic databases (ProZ.com).
