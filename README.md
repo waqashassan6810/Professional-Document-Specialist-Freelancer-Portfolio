@@ -2,7 +2,7 @@
 
 ### 🚀 Professional Document Specialist & Freelance Digital Creator
 
-I am an experienced online freelancer specializing in professional document formatting, data processing, PDF-to-Word/Excel conversions, scanned document cleanup, and expert InPage Urdu typing. With years of local and international experience, I focus on delivering clean layout symmetry, precise typography, and high-accuracy results for every project.
+I am an experienced online freelancer specializing in professional document formatting, data processing, PDF-to-Word/Excel conversions, scanned document cleanup, and expert InPage Urdu typing. With years of local and international experience, I deliver clean layout symmetry, precise typography, and high-accuracy results on every project.
 
 ---
 
