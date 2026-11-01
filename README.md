@@ -2,7 +2,7 @@
 
 ### 🚀 Professional Document Specialist & Freelance Digital Creator
 
-I am an experienced online freelancer specializing in professional document formatting, data processing, PDF-to-Word/Excel conversions, scanned document cleanup, and expert InPage Urdu typing. With years of local and international experience, I deliver clean layout symmetry, precise typography, and high-accuracy results on every project.
+I am an experienced online freelancer specializing in professional document formatting, data processing, PDF-to-Word/Excel conversions, scanned document cleanup, and expert InPage Urdu typing. With years of local and international experience, I focus on delivering clean layout symmetry, precise typography, and high-accuracy results for every project.
 
 ---
 
@@ -10,28 +10,22 @@ I am an experienced online freelancer specializing in professional document form
 
 * **Document Formatting & Conversion:** PDF to Word/Excel, layout cleanup, scanned document restoration, and precise line-break spacing.
 * **Typing & Linguistic Work:** Professional InPage Urdu typing, eBook formatting, and multi-language support (English, Urdu, Punjabi, Hindi).
-* **Digital Storefronts & Products:** Managing commercial assets on **[Fiverr](https://www.fiverr.com/DataWordPro)** and **[Gumroad](https://gumroad.com/datawordpro)** (digital templates, budget planners, and modern resume layouts).
+* **Digital Storefronts & Products:** Managing commercial assets and digital templates on **[Gumroad Storefront](https://waqash64.gumroad.com)**.
 * **Business Tools & Workflow:** Google Workspace, Microsoft Office suite, Canva for digital presentations, and automated productivity tracking.
 
 ---
 
-## 📂 Featured Projects & Assets
+## 📂 Featured Services & Storefronts
 
-| Project / Asset | Description | Platform |
+| Platform / Service | Description | Link |
 | :--- | :--- | :--- |
-| **Modern Minimalist Resume Template** | Clean, professional typography layout designed for job seekers. | Gumroad (`datawordpro`) |
-| **Monthly Budget Planner & Expense Tracker** | Comprehensive digital spreadsheet asset for financial management. | Google Sheets & Excel |
-| **Document Specialist Services** | Professional gigs targeting high-accuracy typing and layout formatting. | Fiverr (`DataWordPro`) |
-
----
-
-## 📊 GitHub Stats & Activity
-
-![Waqas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqashassan6810&show_icons=true&theme=radical)
+| **Fiverr Professional Gig** | Expert document formatting, conversion, and typing services. | [View Fiverr Gig](https://www.fiverr.com/pe/Wee5ly5) |
+| **Gumroad Digital Store** | Downloadable professional templates, resumes, and digital assets. | [Visit Gumroad Store](https://waqash64.gumroad.com) |
 
 ---
 
 ## 📫 Connect with Me
 
+* **Fiverr Profile/Gig:** [Click here to order services](https://www.fiverr.com/pe/Wee5ly5)
+* **Gumroad Store:** [Explore digital products](https://waqash64.gumroad.com)
 * **Professional Profiles:** Available across freelance platforms and linguistic databases (ProZ.com).
-* **Storefronts:** Find my digital templates and service offerings on Fiverr (`DataWordPro`) and Gumroad (`datawordpro`).
